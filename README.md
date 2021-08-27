@@ -1,5 +1,6 @@
-### Hi there 👋
+### Welcome to my profile crack ;v 👋
 
+🙌Hi! I'm Juan Guerrero, I study computer engineer, this is [my website](https//jgproyectos.com/)
 <!--
 **JuanGuerreroDev/JuanGuerreroDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
