@@ -2,10 +2,10 @@
 
 🙌Hi! I'm Juan Guerrero, I study computer engineer, this is [my website](https://www.jgproyectos.com/).
 <code>
-define('name', "Juan Guerrero");<br>
-define('old', 17);<br>
-define('code', "PHP, Java, HTML, CSS, Python, SQL.");<br>
-define('tools', "Laravel, Spring, Bootstrap, jQuery.");<br>
+define('name', "Juan Guerrero");<br/>
+define('old', 17);<br/>
+define('code', "PHP, Java, HTML, CSS, Python, SQL.");<br/>
+define('tools', "Laravel, Spring, Bootstrap, jQuery.");<br/>
  </code">
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on new site proyects
