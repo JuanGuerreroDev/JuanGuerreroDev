@@ -3,12 +3,12 @@
 🙌Hi! I'm Juan Guerrero, I study computer engineer, this is [my website](https://www.jgproyectos.com/).
 <code>
  <?php
-  define('name', "Juan Guerrero");<br/>
-  define('old', 17);<br/>
-  define('code', "PHP, Java, HTML, CSS, Python, SQL.");<br/>
-  define('tools', "Laravel, Spring, Bootstrap, jQuery.");<br/>
+  echo('name', "Juan Guerrero");<br/>
+  echo('old', 17);<br/>
+  echo('code', "PHP, Java, HTML, CSS, Python, SQL.");<br/>
+  echo('tools', "Laravel, Spring, Bootstrap, jQuery.");<br/>
  ?>
- </code">
+ </code>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on new site proyects
 - 🤔 I’m looking for help with ...
