@@ -2,7 +2,7 @@
 
 🙌Hi! I'm Juan Guerrero, I study computer engineer, this is [my website](https://www.jgproyectos.com/).
 ```php
-  function juanGuerrero(){
+  public function juanGuerrero(){
     $name = "Juan Guerrero";
     $edad = 17;
     $tools = ["Laravel", "Spring", "Bootstrap", "jQuery"];
