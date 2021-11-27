@@ -3,9 +3,13 @@
 🙌Hi! I'm Juan Guerrero, I study computer engineer, this is [my website](https://www.jgproyectos.com/).
 ```php
   public function juanGuerrero(){
-    $name = "Juan Guerrero";
+    $name = 'Juan Guerrero';
     $edad = 17;
-    $tools = ["Laravel", "Spring", "Bootstrap", "jQuery"];
+    $tools = ([$framework->'laravel', 
+               $framework->'Spring',
+               $framework->'Bootstrap',
+               $framework->'jQuery'
+               ]);
     $languaje_code = ["PHP", "Java", "HTML", "CSS", "Python", "SQL"];
   }
 ```
