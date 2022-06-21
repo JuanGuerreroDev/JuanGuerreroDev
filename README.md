@@ -2,15 +2,23 @@
 
 🙌Hi! I'm Juan Guerrero, I study computer engineer, this is [my website](https://juanguerrero.engineer/).
 ```php
-  public function juanGuerrero(){
-    $name = 'Juan Guerrero';
-    $age = 19;
-    $tools = ['framework'=>'laravel', 
-              'framework'=>'Spring',
-              'framework'=>'Bootstrap',
-              'framework'=>'jQuery'
+  public function juanGuerrero($profile){
+    $profile->name = 'Juan Guerrero';
+    $profile->age = 19;
+    $profile->tools = [
+                'framework'=>'laravel', 
+                'framework'=>'Spring',
+                'framework'=>'Bootstrap',
+                'framework'=>'jQuery'
                ];
-    $languaje_code = ["PHP", "Java", "HTML", "CSS", "Python", "SQL"];
+    $profile->languaje_code = [
+                      "PHP",
+                      "Java",
+                      "HTML",
+                      "CSS",
+                      "Python",
+                      "SQL"
+                     ];
   }
 ```
 - 🌱 I’m currently learning ...
