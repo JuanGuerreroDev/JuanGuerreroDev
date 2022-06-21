@@ -4,7 +4,7 @@
 ```php
   public function juanGuerrero(){
     $name = 'Juan Guerrero';
-    $edad = 19;
+    $age = 19;
     $tools = ['framework'=>'laravel', 
               'framework'=>'Spring',
               'framework'=>'Bootstrap',
