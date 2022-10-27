@@ -5,7 +5,6 @@
   public function juanGuerrero(Profile $profile) //instance of mine profile ;v
   {
     $profile->name = 'Juan Guerrero';
-    $profile->age = 19;
     $profile->frameworks = [
                   [
                     'framework' => 'Laravel'
