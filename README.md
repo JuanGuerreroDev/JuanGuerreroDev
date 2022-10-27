@@ -27,7 +27,7 @@
 - 👯 I’m looking to collaborate on new site proyects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about software development or web development (Java, Python, PHP, etc).
-- 📫 How to reach me: [https://wwww.juanguerrero.engineer/](https://juanguerrero.engineer/)
+- 📫 How to reach me: [https://wwww.juanguerrero.xyz/](https://juanguerrero.xyz/)
 - 😄 Pronouns: He|Him
 - ⚡ Fun fact: I'm SpeedCuber
 
