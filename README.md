@@ -1,6 +1,6 @@
 ### Welcome to my profile crack ;v 👋
 
-🙌Hi! I'm Juan Guerrero, I study computer engineer, this is [my website](http://juanguerrero.engineer/api/category).
+🙌Hi! I'm Juan Guerrero, I study computer engineer, this is [my website](http://juanguerrero.xyz).
 ```php
   public function juanGuerrero(Profile $profile) //instance of mine profile ;v
   {
