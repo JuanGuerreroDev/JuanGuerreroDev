@@ -91,4 +91,3 @@ $profile = [
 buildProfile($profile);
 
 ```
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JuanGuerreroDev&show_icons=true&theme=tokyonight&hide=prs&count_private=true" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=JuanGuerreroDev&theme=tokyonight" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGuerreroDev&layout=compact&theme=tokyonight" height="160" /> </p>
